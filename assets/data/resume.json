@@ -1,0 +1,109 @@
+{
+	"name": {
+		"first": "Analetta",
+		"middle": "Rae Marie",
+		"last": "Ehler"
+	},
+	"contact": {
+		"phone": 3193102338,
+		"email": "annie.ehler.4@gmail.com",
+		"address": {
+			"street": "5071 Romaine St",
+			"city": "Los Angeles",
+			"state": "CA",
+			"zipCode": 90029
+		}
+	},
+	"education": {
+		"degree": "Bachalors of the Arts",
+		"dateOfConferral": {
+			"month": "May",
+			"day": 21,
+			"year": 2022
+		},
+		"fieldOfStudy": "Computational Neuroscience",
+		"school": "Hampshire College",
+		"location": "Amherst, MA",
+		"courses": [
+			"Epigenetics",
+			"Cognitive Development",
+			"How People Learn",
+			"Linear Algebra",
+			"Machine Learning",
+			"Organic Chemistry I",
+			"Physics (with calculus)",
+			"Research in Artificial Intelligence",
+			"Animal Physiology",
+			"Organic Chemistry II",
+			"Food Microbiology",
+			"Hormones and Behavior",
+			"Biochemistry",
+			"Metal Shop",
+			"Chemistry 101",
+			"Bioinformatics & Computational Molecular Biology",
+			"Endocrinology",
+			"Neuroendocrinology",
+			"Engineering Computing",
+			"Single Variable Calculus",
+			"Multi-Variable Calculus",
+			"Rhetoric",
+			"Methods in Molecular Biology"
+		]
+	},
+	"workExperience": [
+		{
+			"title": "Computer Analyst I",
+			"employer": "Systems Neuroscience Laboratories of Kay Tye",
+			"organization": "The Salk Institute for Biological Studies and Howard Hughes Medical Institute",
+			"location": "San Diego, CA",
+			"startDate": "June 2022",
+			"endDate": "Present",
+			"description": "Wrote data acquisition pipelines for behavioral training setups and 2-photon microscopes. Maintained multiple NFS databases, as well as the backend of the lab website. Deployed process scheduling platforms on their Debian server system using SunGrid Engine and RunAI. Built multiple decoding and statistical analysis pipelines for neural and behavioral data employing CNNs, DNNs, RNNs, HMMs, PCAs, and many clustering algorithms."
+		},
+		{
+			"title": "",
+			"employer": "",
+			"organization": "",
+			"location": "",
+			"startDate": "",
+			"endDate": "",
+			"description": ""
+		},
+		{
+			"title": "Barista",
+			"employer": "The Kern Kafé",
+			"organization": "The RW Kern Center at Hampshire College",
+			"location": "Amherst, MA",
+			"startDate": "August 2019",
+			"endDate": "May 2021",
+			"description": "The R.W.Kern Center is the 17th living building in the world boasting a negative carbon footprint and operating as a living laboratory for sustainability research. Here I continued my barista experience and worked to create a pleasant and welcoming environment for campus members during the coronavirus pandemic."
+		},
+		{
+			"title": "Field Manager",
+			"employer": "Fund for the Public Interest",
+			"organization": "MassPIRG and Environment Massachusetts",
+			"location": "Amherst, MA, Provincetown, MA, and Great Barrington, MA",
+			"startDate": "May 2019",
+			"endDate": "August 2019",
+			"description": "My job primarily involved cold-canvassing residents throughout the state of Massachusetts. The field managerial position also involved coordinating and scheduling transportation, canvassing routes, safety detail, and supportive leadership for a team of 5 canvassers."
+		},
+		{
+			"title": "Administrative Assistant",
+			"employer": "The Institute for Science and Interdisciplinary Studies",
+			"organization": "Hampshire College",
+			"location": "Amherst, MA",
+			"startDate": "October 2018",
+			"endDate": "May 2019",
+			"description": "Analyzed the influence of history, politics, economics, and culture to incorporate that analysis into the studies of science and technology. Maintained contact and publication databases."
+		},
+		{
+			"title": "Research Assistant I",
+			"employer": "Carver College of Medicine",
+			"organization": "The University of Iowa",
+			"location": "Iowa City, IA",
+			"startDate": "June 2016",
+			"endDate": "August 2018",
+			"description": "Worked on data entry, alignment, quantification, and statistical analysis on cellular microscopy data, genomic data, transcriptomic data, and proteomic data. Through the creation of automated bioinformatic pipelines, publications were able to be completed quicker and more effectively."
+		}
+	]
+}

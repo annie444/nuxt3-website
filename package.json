@@ -1,0 +1,49 @@
+{
+  "private": true,
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.18.6",
+    "@nuxt/content": "^2.2.2",
+    "@nuxt/kit": "^3.0.0",
+    "@nuxt/test-utils": "^3.0.0",
+    "@nuxt/types": "^2.15.8",
+    "@types/animejs": "^3.1.6",
+    "@types/jest": "^29.2.4",
+    "@types/node": "^18.11.10",
+    "@typescript-eslint/eslint-plugin": "^5.45.0",
+    "@typescript-eslint/parser": "^5.45.0",
+    "del": "^7.0.0",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-nuxt": "^4.0.0",
+    "eslint-plugin-vue": "^9.8.0",
+    "jest": "^29.3.1",
+    "nuxt": "^3.0.0",
+    "nuxt-icon": "^0.1.8",
+    "sass": "^1.56.1",
+    "sass-loader": "^13.2.0",
+    "scss": "^0.2.4",
+    "siroc": "^0.16.0",
+    "standard-version": "^9.5.0",
+    "typescript": "^4.9.3",
+    "vite": "^3.2.5",
+    "vue": "^3.2.45",
+    "webpack": "^5.75.0"
+  },
+  "dependencies": {
+    "@nuxtjs/eslint-config-typescript": "^12.0.0",
+    "@nuxtjs/google-fonts": "^2.0.0",
+    "animejs": "^3.2.1",
+    "consola": "^2.15.3",
+    "defu": "^6.1.1",
+    "eslint": "^8.29.0",
+    "google-fonts-helper": "^3.2.2",
+    "webfontloader": "^1.6.28"
+  }
+}
