@@ -1,0 +1,25 @@
+{
+  "name": "pnpm-monorepo-nuxt",
+  "version": "1.0.0",
+  "description": "Reproduction repo",
+  "main": "index.js",
+  "workspaces": [
+    "apps/**",
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">16.0.0",
+    "pnpm": ">=6"
+  },
+  "scripts": {
+    "build:ci": "pnpm run build:ui && pnpm run build:blog",
+    "build:ui": "pnpm --dir packages/ui build",
+    "build:blog": "pnpm --dir packages/blog generate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alvarosabu/prettier-config": "^1.1.0"
+  }
+}
